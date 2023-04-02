@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- :mailbox: I'm currently looking for an internship as a frontend developer
+- :mailbox: Looking for an internship as a frontend developer
 
 - :art: Some of my Photoshop projects are available [here](https://imgur.com/a/sjThAMT)
 
