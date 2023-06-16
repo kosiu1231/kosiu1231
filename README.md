@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kosiu</h1>
-<h3 align="center">novice frontend developer</h3>
+<h3 align="center">novice web developer</h3>
 
-- 🌱 I’m currently learning **React**
-
-- :mailbox: Looking for an internship as a frontend developer
+- 🌱 I’m currently learning **React** and **C#**
 
 - :art: Some of my Photoshop projects are available [here](https://imgur.com/a/sjThAMT)
 
